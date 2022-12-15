@@ -1,0 +1,13 @@
+jdbc:mysql://localhost:3306
+database
+root
+password
+
+NOTE: 
+URL
+DATABASE
+USERNAME
+PASSWORD
+
+
+
